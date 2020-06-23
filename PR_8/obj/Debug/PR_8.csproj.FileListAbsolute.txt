@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\bin\Debug\PR_8.exe.config
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\bin\Debug\PR_8.exe
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\bin\Debug\PR_8.pdb
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.MainForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.Properties.Resources.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.TimerForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.exe
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.pdb
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.ImageForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.TabControlForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_8\PR_8\obj\Debug\PR_8.GameForm.resources
